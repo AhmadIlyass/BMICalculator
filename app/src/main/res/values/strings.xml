@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculate</string>
+    <string name="edtWeight">Weight in Kgs</string>
+    <string name="edtHeightFt">Height in Feets</string>
+    <string name="edtHeightIn">Height in Inches</string>
+
+</resources>
